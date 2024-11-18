@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Sleep Medicine
+- 🔭 I’m currently working on Sleep Medicine 💤 in 🇨🇱
 - 🌱 I’m currently learning how to use git
-- 😄 Pronouns: she/her
+- 🇨🇱 Pronouns: she/her
   
 <!--
 **EvaRr/EvaRr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
